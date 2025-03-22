@@ -70,6 +70,11 @@ section {
     margin-top: 20px;
     }
 
+.hero p {
+    max-width: 500px; /* Limits the paragraph width to create 4 to 5 lines */
+    line-height: 1.6; 
+}
+
 article {
     flex: 1;
 }
